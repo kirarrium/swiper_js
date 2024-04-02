@@ -26,3 +26,12 @@ left: auto;
 left: 140px !important;
 right: auto;
 }
+.swiper-container {
+width: 640px;
+height: 400px
+}
+.swiper-slide {
+display: flex;
+justify-content: center;
+align-items: center;
+}
