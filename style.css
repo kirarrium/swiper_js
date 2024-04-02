@@ -19,11 +19,11 @@ width: 58%;
 object-fit: cover;
 }
 .swiper-button-next, .swiper-rtl .swiper-button-prev{
-right: 140px !important;
+right: 140px;
 left: auto;
 }
 .swiper-button-prev, .swiper-rtl .swiper-button-next{
-left: 140px !important;
+left: 140px;
 right: auto;
 }
 .swiper-container {
