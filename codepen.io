@@ -26,16 +26,6 @@ alt=""></div>
 <!-- Добавление скроллбара в HTML код -->
 <div class="swiper-scrollbar"></div>
 </div>
-_______________
-.swiper-container {
-width: 640px;
-height: 400px
-}
-.swiper-slide {
-display: flex;
-justify-content: center;
-align-items: center;
-}
 ____________
 new Swiper('.swiper-container', {
 // Вывод стрелок навигации
