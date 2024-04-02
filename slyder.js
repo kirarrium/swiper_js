@@ -9,4 +9,5 @@ el: ".swiper-pagination",
 },
 mousewheel: true,
 keyboard: true,
+  
 });
