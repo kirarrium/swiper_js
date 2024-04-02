@@ -8,8 +8,8 @@ height: 100%;
 }
 .swiper-slide{
 text-align: center;
-font-size: 30px;
-background-color: ##5fba69;
+font-size: 40px;
+background-color:#5fba69;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -27,7 +27,7 @@ left: 140px;
 right: auto;
 }
 .swiper-container {
-width: 640px;
+width: 140px;
 height: 400px
 }
 .swiper-slide {
